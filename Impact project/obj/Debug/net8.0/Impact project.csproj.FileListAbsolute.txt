@@ -1,0 +1,28 @@
+C:\Users\Pc\source\repos\Impact project\Impact project\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Pc\source\repos\Impact project\Impact project\bin\Debug\net8.0\appsettings.json
+C:\Users\Pc\source\repos\Impact project\Impact project\bin\Debug\net8.0\Impact project.exe
+C:\Users\Pc\source\repos\Impact project\Impact project\bin\Debug\net8.0\Impact project.deps.json
+C:\Users\Pc\source\repos\Impact project\Impact project\bin\Debug\net8.0\Impact project.runtimeconfig.json
+C:\Users\Pc\source\repos\Impact project\Impact project\bin\Debug\net8.0\Impact project.dll
+C:\Users\Pc\source\repos\Impact project\Impact project\bin\Debug\net8.0\Impact project.pdb
+C:\Users\Pc\source\repos\Impact project\Impact project\obj\Debug\net8.0\Impact project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pc\source\repos\Impact project\Impact project\obj\Debug\net8.0\Impact project.AssemblyInfoInputs.cache
+C:\Users\Pc\source\repos\Impact project\Impact project\obj\Debug\net8.0\Impact project.AssemblyInfo.cs
+C:\Users\Pc\source\repos\Impact project\Impact project\obj\Debug\net8.0\Impact project.csproj.CoreCompileInputs.cache
+C:\Users\Pc\source\repos\Impact project\Impact project\obj\Debug\net8.0\Impact project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Pc\source\repos\Impact project\Impact project\obj\Debug\net8.0\Impact project.RazorAssemblyInfo.cache
+C:\Users\Pc\source\repos\Impact project\Impact project\obj\Debug\net8.0\Impact project.RazorAssemblyInfo.cs
+C:\Users\Pc\source\repos\Impact project\Impact project\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Pc\source\repos\Impact project\Impact project\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Pc\source\repos\Impact project\Impact project\obj\Debug\net8.0\staticwebassets\msbuild.Impact project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Pc\source\repos\Impact project\Impact project\obj\Debug\net8.0\staticwebassets\msbuild.build.Impact project.props
+C:\Users\Pc\source\repos\Impact project\Impact project\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Impact project.props
+C:\Users\Pc\source\repos\Impact project\Impact project\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Impact project.props
+C:\Users\Pc\source\repos\Impact project\Impact project\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Pc\source\repos\Impact project\Impact project\obj\Debug\net8.0\scopedcss\bundle\Impact project.styles.css
+C:\Users\Pc\source\repos\Impact project\Impact project\obj\Debug\net8.0\Impact project.dll
+C:\Users\Pc\source\repos\Impact project\Impact project\obj\Debug\net8.0\refint\Impact project.dll
+C:\Users\Pc\source\repos\Impact project\Impact project\obj\Debug\net8.0\Impact project.pdb
+C:\Users\Pc\source\repos\Impact project\Impact project\obj\Debug\net8.0\Impact project.genruntimeconfig.cache
+C:\Users\Pc\source\repos\Impact project\Impact project\obj\Debug\net8.0\ref\Impact project.dll
+C:\Users\Pc\source\repos\Impact project\Impact project\bin\Debug\net8.0\Impact project.staticwebassets.runtime.json
