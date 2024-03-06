@@ -26,3 +26,4 @@ C:\Users\Pc\source\repos\Impact project\Impact project\obj\Debug\net8.0\refint\I
 C:\Users\Pc\source\repos\Impact project\Impact project\obj\Debug\net8.0\ImpactProject.pdb
 C:\Users\Pc\source\repos\Impact project\Impact project\obj\Debug\net8.0\ImpactProject.genruntimeconfig.cache
 C:\Users\Pc\source\repos\Impact project\Impact project\obj\Debug\net8.0\ref\ImpactProject.dll
+C:\Users\Pc\source\repos\Impact project\Impact project\obj\Debug\net8.0\ImpactProject.sourcelink.json
